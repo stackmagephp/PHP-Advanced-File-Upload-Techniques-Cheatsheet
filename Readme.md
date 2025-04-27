@@ -116,7 +116,7 @@ if (!in_array($file_ext, $allowed_extensions)) {
 #PHPFileUpload #LearnPHP #WebDevelopment #StackMagePHP
 
 ## Contributing
-Found a better technique or want to improve this cheatsheet? Share your feedback with **StackMagePHP** on YouTube or contribute via our community!
+Found a better technique or want to improve this cheatsheet? Share your feedback with **StackMagePHP** https://www.youtube.com/channel/UC4wsv4V_HJ30Fz69mUwY52g on YouTube or contribute via our community!
 
 ## License
 This cheatsheet is provided for educational purposes by **StackMagePHP**. Use it freely in your projects, but please credit **StackMagePHP** when sharing.
